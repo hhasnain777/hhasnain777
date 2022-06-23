@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hhasnain777  Hafiz Muhammad Hasnain
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning android with Kotlin
 - 📫 How to reach me ...Rana H M Hasnain @ facebook.com
 
 <!---
